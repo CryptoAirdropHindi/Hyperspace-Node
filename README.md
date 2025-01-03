@@ -46,6 +46,11 @@ You can choose GPU or CPU versions
 * I'm receiving points on my VPS by going through the following guide but I will update the repo if it was needed to enhance it
 * You can also check out [Official repository](https://github.com/hyperspaceai/aios-cli?tab=readme-ov-file) for more commands and info
 
+## To script that checks the system's vCPU cores, RAM, and SSD (disk) usage
+```bash
+curl -o info.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/info.sh && chmod +x info.sh && ./info.sh
+```
+
 ### Install
 ```
 curl https://download.hyper.space/api/install | bash
