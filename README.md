@@ -87,6 +87,10 @@ aios-cli hive points
 
 ![Screenshot_514](https://github.com/user-attachments/assets/b840775e-6c58-4fe4-bd95-a5b876ba7de5)
 
+# Check your private key
+```
+aios-cli hive whoami
+```
 
 # Usefull commands
 ```console
