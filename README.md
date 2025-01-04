@@ -55,7 +55,6 @@ curl -o info.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/
 ```
 curl https://download.hyper.space/api/install | bash
 
-source /root/.bashrc
 ```
 
 ### Start your node
